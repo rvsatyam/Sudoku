@@ -6,3 +6,5 @@ To run this program,
 
 Program will start running.
 Then, you can create sudoku. Also, you can solve given sudoku. You can take hint by using hint button.
+
+For making sudoku, stack data structure is used for backtracking.
